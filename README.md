@@ -1,4 +1,5 @@
 # XMRig
+4AA2BBSEEmDSyrTh7uGiX394aj44mcRmhRkfThU9pTDqaqEdKku5Xjc7dfdXc2LZR8iH4MU77VMCRPJ75R6yBqd5QVKX8YV
 
 [![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/xmrig/xmrig/releases)
 [![GitHub release](https://img.shields.io/github/release/xmrig/xmrig/all.svg)](https://github.com/xmrig/xmrig/releases)
